@@ -1,6 +1,6 @@
 flows:
-  659475ba-5500-44fd-b82f-b5bd1d583d24: {ver: 1, file: First_Flow.snapshot, comments: '',
-    author: anonymous, created: 1659472730802, flowName: First Flow, flowDesc: Initial
+  659475ba-5500-44fd-b82f-b5bd1d583d24: {ver: 2, file: First_Flow.snapshot, comments: second
+      commit, author: anonymous, created: 1659473576994, flowName: First Flow, flowDesc: Initial
       flow}
 layoutVer: 1
 bucketId: 09552aaa-c476-486f-b946-e06fe6b3cbf8
